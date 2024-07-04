@@ -1,6 +1,6 @@
 public class AccountTest {
     public static void main(String[] args) {
-        CheckingAccount account = new CheckingAccount(700.00, "Ken Aryo Bimantoro");
+        CheckingAccount account = new CheckingAccount(700.00, "Elsa Dewi");
         SavingBonds bonds = new SavingBonds();
 
         System.out.println("Account Holder: " + account.getName());
